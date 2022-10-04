@@ -1,4 +1,4 @@
 ## This is the GIT tutorial
 ## added dummy print in pyrthon
 ## im in dev2
-## pls merge
+## pls please merge
